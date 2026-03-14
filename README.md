@@ -1,11 +1,12 @@
 Bank Customer Churn Insights
-📌 Project Overview
+
+Project Overview
 
 This project presents an interactive Power BI dashboard that analyzes customer churn patterns in the banking sector. The dashboard helps understand customer behavior and identify factors that influence customers leaving the bank.
 
 By analyzing demographic, financial, and activity-related attributes, the dashboard provides insights that can help banks improve customer retention strategies and decision-making.
 
-🎯 Objectives
+Objectives
 
 Analyze patterns of customer churn in the banking sector.
 
@@ -15,7 +16,7 @@ Compare churn behavior across gender, credit score, and account activity.
 
 Provide insights that support customer retention strategies.
 
-🛠 Tools & Technologies Used
+Tools & Technologies Used
 
 Power BI Desktop – Data visualization and dashboard development
 
@@ -25,7 +26,7 @@ DAX (Data Analysis Expressions) – Creating calculated measures and KPIs
 
 CSV Dataset – Bank Customer Churn dataset
 
-📂 Dataset Details
+Dataset Details
 
 The dataset contains customer information related to banking services, including:
 
@@ -55,7 +56,7 @@ Customer Exit Status (Churn)
 
 These attributes are used to analyze patterns and trends related to customer churn.
 
-📊 Key Metrics & KPIs
+Key Metrics & KPIs
 
 The dashboard calculates and displays important business metrics such as:
 
@@ -75,7 +76,7 @@ Retained Customers
 
 These KPIs provide a quick overview of the overall customer base and churn distribution.
 
-📈 Dashboard Features
+Dashboard Features
 
 The Power BI dashboard includes several interactive visualizations:
 
@@ -91,7 +92,7 @@ Churn by Gender – Analyzes churn behavior across male and female customers.
 
 Interactive Filters – Users can filter data by year, month, gender, geography, and exit category.
 
-📊 Key Insights
+Key Insights
 
 Some insights obtained from the dashboard include:
 
@@ -105,7 +106,7 @@ Differences in churn behavior can be observed across gender and credit card owne
 
 These insights help identify customer groups that are more likely to leave the bank.
 
-🚀 Impact
+Impact
 
 This dashboard helps banking organizations:
 
@@ -117,7 +118,7 @@ Develop data-driven customer retention strategies.
 
 Improve business decision-making using data insights.
 
-📎 GitHub Repository
+GitHub Repository
 
 You can access the complete project here:
 
