@@ -1,68 +1,41 @@
-Bank Customer Churn Insights
-Project Overview
+# Bank Customer Churn Insights
 
-This project presents a Power BI dashboard that analyzes customer churn in the banking sector. The dashboard helps understand customer behavior and identify factors that lead to customers leaving the bank.
+## Project Overview
+This project presents an interactive Power BI dashboard that analyzes customer churn in the banking sector. The dashboard helps understand customer behavior and identify patterns that lead to customers leaving the bank.
 
-Tools Used
+## Tools Used
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Bank Customer Churn Dataset (CSV)
 
-Power BI Desktop
+## Dataset Features
+The dataset contains customer information such as:
+- Customer ID
+- Age
+- Gender
+- Geography
+- Credit Score
+- Tenure
+- Account Balance
+- Number of Products
+- Credit Card Status
+- Active Member Status
+- Estimated Salary
+- Exit Status (Customer Churn)
 
-Power Query
+## Dashboard Insights
+Key metrics shown in the dashboard:
+- Total Customers: 10,000
+- Lost Customers: 2,037
+- Retained Customers: 7,963
 
-DAX (Data Analysis Expressions)
+The dashboard analyzes churn based on:
+- Gender
+- Credit Score
+- Credit Card Ownership
+- Customer Activity
+- Time trends
 
-Bank Customer Churn Dataset (CSV)
-
-Dataset Features
-
-The dataset includes customer information such as:
-
-Customer ID
-
-Age
-
-Gender
-
-Geography
-
-Credit Score
-
-Tenure
-
-Account Balance
-
-Number of Products
-
-Credit Card Status
-
-Active Member Status
-
-Estimated Salary
-
-Exit Status (Customer Churn)
-
-Dashboard Insights
-
-The dashboard shows:
-
-Total Customers: 10,000
-
-Lost Customers: 2,037
-
-Retained Customers: 7,963
-
-It also analyzes churn based on:
-
-Gender
-
-Credit Score
-
-Credit Card Ownership
-
-Customer Activity
-
-Time trends
-
-Outcome
-
-The dashboard helps banks identify churn patterns and improve customer retention strategies using data-driven insights.
+## Outcome
+The dashboard helps banks identify churn patterns and supports data-driven decisions to improve customer retention strategies.
